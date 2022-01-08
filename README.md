@@ -1,6 +1,23 @@
-# Analysis of Kickstarter Data
-An Anysis of Kickstart Campaigns across the world
----
-![Timing Pivot](https://user-images.githubusercontent.com/96395525/147178137-0c268588-f26a-4fe3-99fb-a2d8d41027ab.png)
----
-![Parent Pivot](https://user-images.githubusercontent.com/96395525/147178164-a6a52e84-c753-482b-9e5a-b62a2f3fc49d.png)
+# Kickstarting with Excel
+
+## Overview of Project
+
+### Purpose
+
+## Analysis and Challenges
+
+### Analysis of Outcomes Based on Launch Date
+
+### Analysis of Outcomes Based on Goals
+
+### Challenges and Difficulties Encountered
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+- What can you conclude about the Outcomes based on Goals?
+
+- What are some limitations of this dataset?
+
+- What are some other possible tables and/or graphs that we could create?
