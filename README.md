@@ -9,9 +9,10 @@ The purpose of this analysis is to investigate trends and relationships in the u
 ## Analysis and Challenge
 
 ### Analysis of Outcomes Based on Launch Date
-![
+![Theater_Outcomes_vs_Launch_Date](Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
+![Outcomes_based_on_Goals](
 
 ### Challenges and Difficulties Encountered
 
