@@ -9,7 +9,7 @@ The purpose of this analysis is to investigate trends and relationships in the u
 ## Analysis and Challenge
 
 ### Analysis of Outcomes Based on Launch Date
-
+![
 
 ### Analysis of Outcomes Based on Goals
 
