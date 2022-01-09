@@ -20,7 +20,7 @@ The purpose of this analysis is to investigate trends and relationships in the u
 
 - The set also contained data for the goal amount of the campaign and the amount that cmmpaign raised. A new variable representing the success or failure of the campaign was created to allow us to categorize the campaigns as either a success, failure, or cancellation which was much more pertinent to the anlaysis.
 
-- In order to better study the size and its effect on campaign outcomes, the count of successful, failed, and canceled campaigns was organized into tranches ranging from less than $1,0000 USD to greater than $50,000 USD using increments of $5,000 USD. Three variables denoting the percentage of the counts of successful, failed, can canceled campaigns in each tranche were also created and added to the set. These manipulations allowed for a presentation of the data in a line chart.
+- In order to better study the size and its effect on campaign outcomes, the count of successful, failed, and canceled campaigns was organized into tranches ranging from less than $1,0000 USD to greater than $50,000 USD using increments of $5,000 USD. Three variables denoting the percentage of the counts of successful, failed, and canceled campaigns in each tranche were also created and added to the set. These manipulations allowed for a presentation of the data in a line chart.
 
 ## Results
 
