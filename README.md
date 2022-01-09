@@ -12,13 +12,20 @@ The purpose of this analysis is to investigate trends and relationships in the u
 ![Theater_Outcomes_vs_Launch_Date](Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-![Outcomes_based_on_Goals](
+![Outcomes_based_on_Goals](Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
+#### Although the data set was mostly complete, several manipulations of the raw data were undertaken to facilitate this analysis. 
+- The set contained dates upon which the project was launched upon when it was completed. In order to study seasonal trends, it was neccessary to extract the year and the month from the raw data which was then organized into a PivotTable. From the Pviottable, we were able to create a visualization of the data using a line chart.
+
+- The set also contained data for the goal amount of the campaign and the amount that cmmpaign raised. A new variable representing the success or failure of the campaign was created to allow us to categorize the campaigns as either a success, failure, or cancellation which was much more pertinent to the anlaysis.
+
+- In order to better study the size and its effect on campaign outcomes, the count of successful, failed, and canceled campaigns was organized into tranches ranging from less than $1,0000 USD to greater than $50,000 USD using increments of $5,000 USD. Three variables denoting the percentage of the counts of successful, failed, can canceled campaigns in each tranche were also created and added to the set. These manipulations allowed for a presentation of the data in a line chart.
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+### Outcomes Based on Launch Date
+The data set contained a low number of canceled outcomes that did not bear any apparent relationship to the date upon which those campaigns were launched. Though both failed and successful campaigns counts tended to be relatively higher from May through August, this trend is much more pronounced among the count of successful campaigns. The lowest counts of campaigns for both failed and successful campaigns occurred in the winter months of November, December, and January. The exception to this trend would be the month of March where the count of failed and successful campaigns decreased from the previouys month before resuming an increase in April. 
 
 - What can you conclude about the Outcomes based on Goals?
 
