@@ -38,6 +38,6 @@ As with outcomes based on launch date, there are not enough observations of canc
 - The duration of the campaign and its effect on the ultimate outcome of the campaign was not studied. This variable could be extracted from the raw data and visualized using a line chart similar to the one used to study the effect of goal size. 
 -  Designation of a campaign as a staff favorite or a spotlghted campaign would also be an import vairable for further analysis. A study of the percent of successful campaigns with this designation would be of particular interest. 
 -  The count of types of outcomes by launch date is somewhat inseperable from the popularity of when campaigns were launched. A more appropriate analysis would be to use outcome type as a percentage of the total cmapaigns for that period which would be more inightful as to the probability of success. 
-
+---
 # Kickstarter Outcomes Dataset - [Kickstarter_Outcomes_Data](Kickstarter_Challenge.xlsx)
 
