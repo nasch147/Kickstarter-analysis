@@ -34,9 +34,9 @@ As with outcomes based on launch date, there are not enough observations of canc
 - As previously mentioned, the observations are not evenly distributed when considering the set within the context of size. Approximately 85% of the observations are for campaigns with funding goals lower than $9,999 USD. Therefore, this set is of limited use for larger campaigns.
 - Most importantly, the observations in this set are from 2009-2017 and not contiguous with the present point in time. Any material changes to the crowdfunding or theatre industry after 2017 would not be reflected in the data. Such items could include increased regulation or competion from other platforms. The primary development would be the COVID pandemic and its impact on the theatre industry which could materially change the relationships between the data in this set. 
 
-##Further Analysis
+## Further Analysis
 - The duration of the campaign and its effect on the ultimate outcome of the campaign was not studied. This variable could be extracted from the raw data and visualized using a line chart similar to the one used to study the effect of goal size. 
 -  Designation of a campaign as a staff favorite or a spotlghted campaign would also be an import vairable for further analysis. A study of the percent of successful campaigns with this designation would be of particular interest. 
 -  The count of types of outcomes by launch date is somewhat inseperable from the popularity of when campaigns were launched. A more appropriate analysis would be to use outcome type as a percentage of the total cmapaigns for that period which would be more inightful as to the probability of success. 
-#Dataset - [Dataset](
+# Dataset - [Dataset](
 
